@@ -5,6 +5,7 @@
 - CSS
 - NodeJS
 - English
+- Polish
 
 ### Languages I can use, but not fluently:
 - C
