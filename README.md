@@ -3,7 +3,6 @@
 ### Languages I'm fluent in:
 - HTML
 - CSS
-- NodeJS
 - English
 - Polish
 
@@ -13,7 +12,8 @@
 - Assembly
 - Java
 - JS
+- NodeJS
+- Spanish
 
 ### I'm currently learning:
 - Python
-- Russian
