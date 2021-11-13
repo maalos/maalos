@@ -5,6 +5,7 @@
 - HTML
 - CSS
 - Python
+- Lua
 - English
 - Polish
 
@@ -17,6 +18,7 @@
 - JS
 - NodeJS
 - Spanish
+- Russian
 
 ### I'm currently learning:
-- Russian
+- maths
