@@ -1,5 +1,5 @@
 # Hello there! 👋
-## I'm Maalos, a 16yo programmer from Poland.
+## I'm Maalos, a 15yo programmer from Poland.
 ### I like cycling, coding and video games.
 ### Languages I'm fluent in:
 - HTML
