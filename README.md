@@ -6,17 +6,16 @@
 - CSS
 - Python
 - Lua
+- C++
+- JS
 - English
 - Polish
 
 ### Languages I can use, but not fluently:
 - C
-- C++
 - C#
-- Assembly (yes i did os development)
+- Assembly
 - Java
-- JS
-- NodeJS
 - Spanish
 - Russian
 
