@@ -6,14 +6,14 @@
 - HTML, CSS, JS
 - Python
 - Lua
+- Bash
 - C/C++
 - English
 - Polish
 
 ### Languages I can use, but not fluently:
 - Assembly
-- Java
-- Spanish
 - Russian
 
 ### I'm currently learning:
+- Typescript
